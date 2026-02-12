@@ -1,4 +1,28 @@
-# Calculadora
+# QuickPercent–Percentage-Calculator-PWA
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JohnTenno/JohnTenno/refs/heads/main/imgs/portada.png" alt="Typing Animation" />
+</p>
+#  QuickPercent – Percentage Calculator PWA
+
+QuickPercent is a lightweight web application built with **Angular** and deployed as a **Progressive Web App (PWA)**.
+
+It was created to provide a fast and simple way to calculate percentages without needing to understand the underlying math.
+
+The goal was not complexity — it was usability and accessibility.
+
+---
+
+## The Origin
+
+This project was built to help my mom to quickly calculate percentages 
+without needing to understand the math behind it.
+
+Instead of repeatedly explaining formulas, I built a small tool 
+that could be installed directly on a phone as a PWA.
+
+Simple problem. Real user. Practical solution.
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.10.
 
