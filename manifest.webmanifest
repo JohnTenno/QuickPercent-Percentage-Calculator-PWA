@@ -1,7 +1,7 @@
 {
-  "name": "Calculadora",
-  "short_name": "Calculadora",
-  "start_url": "/Calculadora",
+  "name": "QuickPercent-Percentage-Calculator-PWA",
+  "short_name": "QuickPercent",
+  "start_url": "/QuickPercent-Percentage-Calculator-PWA",
   "display": "standalone",
   "icons": [
     {
