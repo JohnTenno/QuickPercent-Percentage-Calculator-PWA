@@ -1,6 +1,6 @@
 {
   "name": "QuickPercent-Percentage-Calculator-PWA",
-  "short_name": "QuickPercent-Percentage-Calculator-PWA",
+  "short_name": "QuickPercent",
   "start_url": "/QuickPercent-Percentage-Calculator-PWA",
   "display": "standalone",
   "icons": [
